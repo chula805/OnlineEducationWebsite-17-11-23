@@ -29,7 +29,7 @@ Welcome to the Online Education Website! This responsive website serves as a pla
 
 🌐 Live Demo
 
-Embark on your educational adventure with our live demo -
+Embark on your educational adventure with our live demo -  https://chula805.github.io/OnlineEducationWebsite-17-11-23/
 
 📬 Feedback
 
